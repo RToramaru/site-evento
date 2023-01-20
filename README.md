@@ -34,7 +34,7 @@ O projeto utiliza dos seguintes recursos:
 
 Para utilizar o sistema é necessário seguir algumas etapas:
 
-    1. Clonar o repositório na sua máquina local  e instalar as dependências.
+  1. Clonar o repositório na sua máquina local  e instalar as dependências.
 
 
 ```
@@ -48,7 +48,7 @@ npm install
 
 ```
   
-    2. Criar uma copia do arquivo .env.
+   2. Criar uma copia do arquivo .env.
     
 
 ```
@@ -56,7 +56,7 @@ copy .env.example .env
 
 ```
 
-    3. Gere uma chave de criptografia de aplicativo.
+   3. Gere uma chave de criptografia de aplicativo.
     
 
 ```
@@ -64,21 +64,21 @@ php artisan key:generate
 
 ```
 
-    4. Crie o banco de dados.
+   4. Crie o banco de dados.
     
 ```
 php artisan migrate
 
 ```
 
-    5. Inicie o npm.
+   5. Inicie o npm.
     
 ```
 npm run dev
 
 ```  
 
-    6. Inicie o servidor.
+   6. Inicie o servidor.
     
 ```
 php artisan serve 
