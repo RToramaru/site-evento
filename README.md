@@ -24,7 +24,7 @@ O projeto utiliza dos seguintes recursos:
     * Download [última versão](https://jetstream.laravel.com/2.x/installation.html#installing-jetstream)
     
     
-*  **MysSQL** : utilizado Utilizando Distribuição 10.4.27-MariaDB
+*  **MySQL** : utilizado Utilizando Distribuição 10.4.27-MariaDB
      
     * Download [última versão](https://dev.mysql.com/downloads/installer/)
     
