@@ -94,6 +94,13 @@ Para utilizar o sistema é necessário acessar o servidor disponibilizado.
 
 ## Demonstração
 
+![](/screens/1.png)
+![](/screens/2.png)
+![](/screens/3.png)
+![](/screens/4.png)
+![](/screens/5.png)
+![](/screens/6.png)
+![](/screens/7.png)
 
 https://user-images.githubusercontent.com/42619833/213609339-4d714a16-ba97-4356-a7e8-b801e73808c0.mp4
 
